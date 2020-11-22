@@ -1,0 +1,17 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+persist.device_config.runtime_native.usap_pool_enabled=true
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+ro.surface_flinger.running_without_sync_framework=true
+vendor.perf.performancemode.support=1
+vendor.perf.gestureflingboost.enable=1
+MIN_HIDDEN_APPS=false
+ACTIVITY_INACTIVE_RESET_TIME=false
+MIN_RECENT_TASKS=false
+PROC_START_TIMEOUT=false
+CPU_MIN_CHECK_DURATION=false
+GC_TIMEOUT=false
+SERVICE_TIMEOUT=false
+MIN_CRASH_INTERVAL=false
+ENFORCE_PROCESS_LIMIT=false
