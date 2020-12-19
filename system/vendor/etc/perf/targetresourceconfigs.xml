@@ -52,7 +52,7 @@ as anyway perflock calls of these resources would fail. -->
         <Config MajorValue="0xB" MinorValue="0x2" Node="/sys/devices/system/cpu/cpu_boost/parameters/input_boost_freq" Kernel="4.19" /> <!-- input_boost_freq on kernel 4.19 -->
         <Config MajorValue="0xB" MinorValue="0x2" Node="/sys/devices/system/cpu/cpu_boost/parameters/input_boost_freq" Kernel="4.14" /> <!-- input_boost_freq on kernel 4.14 -->
         <Config MajorValue="0xB" MinorValue="0x2" Node="/sys/devices/system/cpu/cpu_boost/parameters/input_boost_freq" Kernel="4.4" /> <!-- input_boost_freq on kernel 4.4 -->
-        <Config MajorValue="0xB" MinorValue="0x6" Supported="no" /><!-- disable_ppr -->
+        <Config MajorValue="0xB" MinorValue="0x6" Supported="yes" /><!-- disable_ppr -->
 
         <!-- llcbw L3 and DDR major end -->
         <Config MajorValue="0xC" MinorValue="0x0" Node="/sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/min_freq" />
