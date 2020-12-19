@@ -1,2 +1,2 @@
-# Thermal
-Thermal for Lavender
+# Eas Booster
+Eas Booster For all Devices ( Testing )
