@@ -53,8 +53,8 @@
              CpufreqGov="1" />
 
          <ClustersInfo Id="0" NumCores="4" Type="little" />
-         <ClustersInfo Id="1" NumCores="3" Type="big" />
-         <ClustersInfo Id="2" NumCores="1" Type="prime" />
+         <ClustersInfo Id="1" NumCores="2" Type="big" />
+         <ClustersInfo Id="2" NumCores="2" Type="prime" />
 
     </Config1>
 
