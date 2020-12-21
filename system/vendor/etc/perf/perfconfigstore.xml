@@ -38,6 +38,7 @@ property Name is called. -->
                 <Prop Name="ro.ril.power_collapse" Value="true" />
                 <Prop Name="ro.config.hw_fast_dormancy" Value="true" />
                 <Prop Name="debug.egl.hw" Value="true" />
+                <Prop Name="debug.sf.hw" Value="true" />
                 <Prop Name="ro.vendor.qti.sys.fw.bg_apps_limit" Value="48" />
                 <Prop Name="ro.vendor.at_library" Value="libqti-at.so" />
 
