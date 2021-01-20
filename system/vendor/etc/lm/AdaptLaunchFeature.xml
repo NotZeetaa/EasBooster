@@ -58,8 +58,13 @@
                     <AsyncType>1</AsyncType>
                 </Trigger>
                 <Trigger>
+                   <Primary>false</Primary>
+                    <AsyncId>VENDOR_HINT_MTP_BOOST</AsyncId>
+                    <AsyncType>1</AsyncType>
+                </Trigger>
+                <Trigger>
                     <Primary>false</Primary>
-                    <AsyncId>VENDOR_HINT_TAP_EVENT</AsyncId>
+                    <AsyncId>VENDOR_HINT_ROTATION_ANIM_BOOST</AsyncId>
                 </Trigger>
             </Triggers>
             <Samples>160</Samples>
