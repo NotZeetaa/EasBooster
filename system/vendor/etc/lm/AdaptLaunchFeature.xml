@@ -58,7 +58,7 @@
                     <AsyncType>1</AsyncType>
                 </Trigger>
                 <Trigger>
-                   <Primary>false</Primary>
+                    <Primary>false</Primary>
                     <AsyncId>VENDOR_HINT_ROTATION_ANIM_BOOST</AsyncId>
                     <AsyncType>1</AsyncType>
                 </Trigger>
@@ -68,7 +68,7 @@
                     <AsyncType>1</AsyncType>
                 </Trigger>
                 <Trigger>
-                   <Primary>false</Primary>
+                    <Primary>false</Primary>
                     <AsyncId>VENDOR_HINT_ACTIVITY_BOOST</AsyncId>
                     <AsyncType>1</AsyncType>
                 </Trigger>
