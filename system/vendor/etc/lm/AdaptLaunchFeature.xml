@@ -59,7 +59,7 @@
                 </Trigger>
                 <Trigger>
                    <Primary>false</Primary>
-                    <AsyncId>VENDOR_HINT_MTP_BOOST</AsyncId>
+                    <AsyncId>VENDOR_HINT_ROTATION_ANIM_BOOST</AsyncId>
                     <AsyncType>1</AsyncType>
                 </Trigger>
                 <Trigger>
