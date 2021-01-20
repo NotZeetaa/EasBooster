@@ -64,6 +64,11 @@
                 </Trigger>
                 <Trigger>
                     <Primary>false</Primary>
+                    <AsyncId>VENDOR_HINT_PACKAGE_INSTALL_BOOST</AsyncId>
+                    <AsyncType>1</AsyncType>
+                </Trigger>
+                <Trigger>
+                    <Primary>false</Primary>
                     <AsyncId>VENDOR_HINT_TAP_EVENT</AsyncId>
                 </Trigger>
             </Triggers>
