@@ -38,6 +38,11 @@
                     <AsyncType>1</AsyncType>
                 </Trigger>
                 <Trigger>
+                    <Primary>true</Primary>
+                    <AsyncId>VENDOR_HINT_TOUCH_BOOST</AsyncId>
+                    <AsyncType>1</AsyncType>
+                </Trigger>
+                <Trigger>
                     <Primary>false</Primary>
                     <AsyncId>VENDOR_HINT_TAP_EVENT</AsyncId>
                 </Trigger>
