@@ -74,6 +74,11 @@
                 </Trigger>
                 <Trigger>
                     <Primary>false</Primary>
+                    <AsyncId>VENDOR_HINT_SUBSEQ_LAUNCH_BOOST</AsyncId>
+                    <AsyncType>1</AsyncType>
+                </Trigger>
+                <Trigger>
+                    <Primary>false</Primary>
                     <AsyncId>VENDOR_HINT_TAP_EVENT</AsyncId>
                 </Trigger>
             </Triggers>
