@@ -33,12 +33,12 @@
                     <AsyncType>1</AsyncType>
                 </Trigger>
                 <Trigger>
-                    <Primary>true</Primary>
+                    <Primary>false</Primary>
                     <AsyncId>VENDOR_HINT_SCROLL_BOOST</AsyncId>
                     <AsyncType>1</AsyncType>
                 </Trigger>
                 <Trigger>
-                    <Primary>true</Primary>
+                    <Primary>false</Primary>
                     <AsyncId>VENDOR_HINT_TOUCH_BOOST</AsyncId>
                     <AsyncType>1</AsyncType>
                 </Trigger>
