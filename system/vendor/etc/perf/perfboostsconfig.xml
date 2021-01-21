@@ -257,6 +257,12 @@
         <Config
             Id="0x00001091" Enable="true" Target="kona"
             Resources="0x40C70000, 20, 0x40800100, 691" />
+        <Config
+            Id="0x00001091" Enable="true" Target="sdm845"
+            Resources="0x40C70000, 20, 0x40800100, 691" />
+        <Config
+            Id="0x00001091" Enable="true" Target="sdm660"
+            Resources="0x40C70000, 20, 0x40800100, 691" />
 
     <!--Display on Resource -->
         <!-- Display on resource opcode, value -->
