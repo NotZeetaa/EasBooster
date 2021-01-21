@@ -1,5 +1,6 @@
 # Eas Booster
 NOTE: U CAN USE IN HMP TOO BUT ITS RECOMMENDED EAS 
+
 Eas Booster For Supported Kernels:
 - 4.19 Kernel
 - 4.14 Kernel
