@@ -141,6 +141,14 @@
             Id="0x00001083" Enable="true" Timeout="500" Target="kona"
             Resources="0x40804000, 0xFFF, 0x40804100, 0xFFF, 0x40804200, 0xFFF,
                        0x40800000, 0xFFF, 0x40800100, 0xFFF, 0x40800200, 0xFFF" />
+        <Config
+            Id="0x00001083" Enable="true" Timeout="500" Target="sdm845"
+            Resources="0x40804000, 0xFFF, 0x40804100, 0xFFF, 0x40804200, 0xFFF,
+                       0x40800000, 0xFFF, 0x40800100, 0xFFF, 0x40800200, 0xFFF" />
+        <Config
+            Id="0x00001083" Enable="true" Timeout="500" Target="sdm660"
+            Resources="0x40804000, 0xFFF, 0x40804100, 0xFFF, 0x40804200, 0xFFF,
+                       0x40800000, 0xFFF, 0x40800100, 0xFFF, 0x40800200, 0xFFF" />
 
     <!--Vertical Scroll boost-->
         <!-- LLCBW_MIN_FREQ resource opcode, value-->
