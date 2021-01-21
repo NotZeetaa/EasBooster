@@ -124,7 +124,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "    Eas Booster V1 Stable by NotZeetaa    "
+  ui_print "    Eas Booster V2 Stable by NotZeetaa    "
   ui_print "*******************************"
 sleep 2
 
