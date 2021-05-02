@@ -194,6 +194,7 @@
     </Meters>
     <IgnoredApps>
         <App>com.google.android.gms</App>
+        <App>tv.twitch.android.app</App>
         <App>com.android.vending</App>
         <App>com.google.android.projection.gearhead</App>
     </IgnoredApps>
