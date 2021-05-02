@@ -83,15 +83,15 @@
 
          <TargetInfo
              Target="sdm660"
-             NumClusters="3"
+             NumClusters="2"
              TotalNumCores="8"
-             SocIds="346"
+             SocIds="317,324,345,346"
              SynCore="1"
              CoreCtlCpu="4"
-             CpufreqGov="1" />
+             MinCoreOnline="0" />
 
-         <ClustersInfo Id="0" NumCores="3" Type="little" />
-         <ClustersInfo Id="1" NumCores="5" Type="big" />
+         <ClustersInfo Id="0" NumCores="4" Type="little" />
+         <ClustersInfo Id="1" NumCores="4" Type="big" />
 
     </Config3>
 
